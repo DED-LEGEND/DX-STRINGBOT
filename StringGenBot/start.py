@@ -23,11 +23,11 @@ async def start(bot: Client, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="⚡𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆⚡", callback_data="generate")
+                    InlineKeyboardButton(text="⚡𝐃𝐗 𝐋𝐔𝐂𝐊𝐘 𝐒𝐓𝐑𝐈𝐍𝐆⚡", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ❣️", url="https://t.me/Tg_Friendss"),
-                    InlineKeyboardButton("🥀 𝐎𝐟𝐟𝐢𝐜𝐞 🥀", url="https://t.me/VIP_CREATORS")
+                    InlineKeyboardButton("❣️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ❣️", url="https://t.me/DX_INFO"),
+                    InlineKeyboardButton("🥀 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🥀", url="https://t.me/YARANA_TG")
                 ]
             ]
         ),
